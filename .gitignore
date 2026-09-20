@@ -1,0 +1,27 @@
+# 工作区本地文件（不属于产品本身）
+.workbuddy/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# 工具/体检脚本的中间产物（抽出的 JS、调试副本），不要提交
+*.extracted.js
+dbg.html
+*.dbg.html
+
+# 密钥类文件——万一放进来也绝不提交
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+*secret*.json
+
+# 内部文档与工作产物——不属于产品本身
+docs/发布与传播清单.md
+docs/px-raw.png
+docs/v1-brand.png
