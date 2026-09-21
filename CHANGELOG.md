@@ -64,4 +64,4 @@
 
 - 静态扫描确认源码无任何内置密钥；`.gitignore` 兜底排除 `.env` / `*.key` / `*.pem` 等
 
-[1.0.0]: https://github.com/pierce0213/lineboard/releases/tag/v1.0.0
+[1.0.0]: https://github.com/pierce0213/lineboard--/releases/tag/v1.0.0

@@ -2,7 +2,7 @@
 
 # 线绘板 LineBoard
 
-[![version](https://img.shields.io/badge/版本-1.0.0-3b6ef5)](https://github.com/pierce0213/lineboard/releases/tag/v1.0.0)
+[![version](https://img.shields.io/badge/版本-1.0.0-3b6ef5)](https://github.com/pierce0213/lineboard--/releases/tag/v1.0.0)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![size](https://img.shields.io/badge/单文件-188KB-orange)](symmetry-draw.html)
 [![deps](https://img.shields.io/badge/依赖-零-blue)](#-技术实现)
